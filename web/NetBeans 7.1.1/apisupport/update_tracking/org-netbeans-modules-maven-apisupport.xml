@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.maven.apisupport/1">
+    <module_version install_time="1330651563975" last="true" origin="installer" specification_version="1.22.2">
+        <file crc="408884484" name="config/Modules/org-netbeans-modules-maven-apisupport.xml"/>
+        <file crc="3848540866" name="modules/locale/org-netbeans-modules-maven-apisupport_ja.jar"/>
+        <file crc="399179045" name="modules/locale/org-netbeans-modules-maven-apisupport_pt_BR.jar"/>
+        <file crc="1098904499" name="modules/locale/org-netbeans-modules-maven-apisupport_ru.jar"/>
+        <file crc="3639504796" name="modules/locale/org-netbeans-modules-maven-apisupport_zh_CN.jar"/>
+        <file crc="1527102639" name="modules/org-netbeans-modules-maven-apisupport.jar"/>
+    </module_version>
+</module>
